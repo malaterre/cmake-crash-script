@@ -1,0 +1,2 @@
+cmake-crash-script
+==================
